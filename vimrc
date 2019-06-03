@@ -13,3 +13,4 @@ set ignorecase
 set smartcase
 set number
 set hlsearch
+set mouse=a
